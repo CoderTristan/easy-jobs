@@ -1,4 +1,4 @@
-How to Combine Them: Core Modules
+Core Modules
 Module	Description
 Profiles & Portfolios	Fun, teen-friendly profiles showing skills, badges, projects.
 Skill Challenges & Badges	Micro-challenges to earn proof of skills.
@@ -30,5 +30,5 @@ Iterate fast: Add applications, messaging, and advanced portfolio features based
 
 Scale with marketing & partnerships: Youth-focused orgs, bootcamps, coding schools, local businesses.
 
-
+Allowing both teens and adults on your platform broadens the user base and increases opportunities for everyone. Users would select their age group during signup, which is clearly displayed on profiles for transparency. Employers can tag job postings or apprenticeships with age requirements, so candidates only see relevant opportunities. Mentorship matching would also consider age preferences, helping create comfortable and effective mentor-mentee pairs. Community spaces can be segmented or moderated based on age groups to ensure safe and appropriate interactions. This mixed-age model encourages knowledge sharing between generations, enriching the learning experience. It also gives employers more flexibility to find suitable candidates. Overall, age filtering balances inclusivity with safety, making the platform welcoming and effective for users of all ages.
 
